@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "title": "NextGen Limited",
+    "description": "Dịch vụ phát triển phần mềm chuyên nghiệp. Chúng tôi xây dựng ứng dụng di động, giải pháp full-stack và sản phẩm trọn gói cho doanh nghiệp toàn cầu.",
+    "keywords": "phát triển phần mềm, ứng dụng di động, full-stack, iOS, Android, React Native, Next.js, gia công phần mềm"
+  },
+  "nav": {
+    "services": "Dịch vụ",
+    "portfolio": "Dự án",
+    "process": "Quy trình",
+    "contact": "Liên hệ",
+    "cta": "Bắt đầu"
+  },
+  "hero": {
+    "title": "Biến Ý Tưởng Thành Hiện Thực Số",
+    "subtitle": "Chúng tôi là đội ngũ phát triển giàu kinh nghiệm, xây dựng các ứng dụng di động, nền tảng web và giải pháp phần mềm trọn gói cho doanh nghiệp toàn cầu.",
+    "cta": {
+      "primary": "Bắt đầu dự án",
+      "secondary": "Xem dự án"
+    }
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "subtitle": "Giải pháp phát triển toàn diện phù hợp với nhu cầu kinh doanh của bạn",
+    "mobile": {
+      "title": "Ứng dụng di động",
+      "description": "Ứng dụng iOS và Android native được xây dựng với Swift, SwiftUI và React Native. Từ ý tưởng đến triển khai lên App Store.",
+      "features": ["Phát triển iOS", "Phát triển Android", "Cross-Platform", "Tối ưu App Store"]
+    },
+    "fullstack": {
+      "title": "Phát triển Full-Stack",
+      "description": "Ứng dụng web và API có khả năng mở rộng sử dụng các framework hiện đại. Next.js, Node.js, Python và kiến trúc cloud-native.",
+      "features": ["Frontend Development", "Backend APIs", "Thiết kế Database", "Triển khai Cloud"]
+    },
+    "e2e": {
+      "title": "Giải pháp trọn gói",
+      "description": "Phát triển sản phẩm hoàn chỉnh từ ý tưởng đến ra mắt. Chiến lược, thiết kế, phát triển và hỗ trợ liên tục.",
+      "features": ["Chiến lược sản phẩm", "UX/UI Design", "Phát triển", "Bảo trì & Hỗ trợ"]
+    },
+    "consulting": {
+      "title": "Tư vấn & Cố vấn",
+      "description": "Tư vấn kỹ thuật giúp bạn đưa ra quyết định công nghệ đúng đắn. Đánh giá kiến trúc, bổ sung nhân sự và tối ưu quy trình.",
+      "features": ["Đánh giá kiến trúc", "Code Audit", "Đào tạo team", "Chiến lược công nghệ"]
+    }
+  },
+  "portfolio": {
+    "title": "Dự án của chúng tôi",
+    "subtitle": "Các dự án chúng tôi đã thực hiện cho khách hàng trên toàn cầu",
+    "categories": {
+      "all": "Tất cả",
+      "mobile": "Ứng dụng di động",
+      "fullstack": "Full-Stack"
+    },
+    "viewProject": "Xem dự án"
+  },
+  "techStack": {
+    "title": "Công nghệ chúng tôi sử dụng",
+    "subtitle": "Công cụ và framework hiện đại để xây dựng giải pháp có khả năng mở rộng"
+  },
+  "process": {
+    "title": "Quy trình làm việc",
+    "subtitle": "Quy trình đã được chứng minh để交付 phần mềm chất lượng đúng hạn",
+    "steps": {
+      "1": {
+        "title": "Khám phá",
+        "description": "Chúng tôi hiểu yêu cầu, mục tiêu và ràng buộc của bạn thông qua các cuộc thảo luận chi tiết."
+      },
+      "2": {
+        "title": "Lập kế hoạch",
+        "description": "Chúng tôi tạo lộ trình toàn diện với các cột mốc, thời gian và kết quả交付."
+      },
+      "3": {
+        "title": "Phát triển",
+        "description": "Đội ngũ của chúng tôi xây dựng giải pháp của bạn bằng phương pháp agile với các cập nhật thường xuyên."
+      },
+      "4": {
+        "title": "Kiểm thử",
+        "description": "Đảm bảo chất lượng nghiêm ngặt để sản phẩm của bạn đáp ứng các tiêu chuẩn cao nhất."
+      },
+      "5": {
+        "title": "Triển khai",
+        "description": "Chúng tôi triển khai giải pháp và cung cấp hỗ trợ, bảo trì liên tục."
+      }
+    }
+  },
+  "contact": {
+    "title": "Hãy cùng nhau tạo điều gì tuyệt vời",
+    "subtitle": "Sẵn sàng bắt đầu dự án của bạn? Liên hệ với chúng tôi.",
+    "form": {
+      "name": "Họ và tên",
+      "email": "Địa chỉ email",
+      "company": "Tên công ty",
+      "projectType": "Loại dự án",
+      "projectTypes": {
+        "mobile": "Ứng dụng di động",
+        "fullstack": "Web Full-Stack",
+        "e2e": "Giải pháp trọn gói",
+        "consulting": "Tư vấn"
+      },
+      "budget": "Ngân sách",
+      "budgets": {
+        "<5k": "Dưới $5,000",
+        "5k-15k": "$5,000 - $15,000",
+        "15k-50k": "$15,000 - $50,000",
+        ">50k": "Trên $50,000"
+      },
+      "message": "Chi tiết dự án",
+      "messagePlaceholder": "Cho chúng tôi biết về dự án, mục tiêu và thời gian của bạn...",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi...",
+      "success": "Cảm ơn bạn! Chúng tôi sẽ phản hồi trong vòng 24 giờ.",
+      "error": "Đã xảy ra lỗi. Vui lòng thử lại."
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "email": "contact@nextgen.limited",
+      "phone": "+84 123 456 789",
+      "calendly": "Đặt lịch gọi"
+    },
+    "social": {
+      "title": "Kết nối với chúng tôi"
+    }
+  },
+  "footer": {
+    "description": "Xây dựng giải pháp phần mềm xuất sắc cho doanh nghiệp toàn cầu.",
+    "columns": {
+      "services": {
+        "title": "Dịch vụ",
+        "mobile": "Ứng dụng di động",
+        "fullstack": "Full-Stack",
+        "e2e": "Trọn gói",
+        "consulting": "Tư vấn"
+      },
+      "company": {
+        "title": "Công ty",
+        "about": "Về chúng tôi",
+        "process": "Quy trình",
+        "careers": "Tuyển dụng"
+      },
+      "connect": {
+        "title": "Kết nối"
+      }
+    },
+    "copyright": "© {year} NextGen Limited. Bảo lưu mọi quyền."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "title": "NextGen Limited",
+    "description": "Professional software development services. We build mobile apps, full-stack solutions, and end-to-end products for businesses worldwide.",
+    "keywords": "software development, mobile apps, full-stack, iOS, Android, React Native, Next.js, outsourcing"
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Get Started"
+  },
+  "hero": {
+    "title": "Transform Your Vision Into Digital Reality",
+    "subtitle": "We are a team of experienced developers building exceptional mobile apps, web platforms, and end-to-end software solutions for businesses worldwide.",
+    "cta": {
+      "primary": "Start Your Project",
+      "secondary": "View Our Work"
+    }
+  },
+  "services": {
+    "title": "What We Do",
+    "subtitle": "Comprehensive development solutions tailored to your business needs",
+    "mobile": {
+      "title": "Mobile Apps",
+      "description": "Native iOS and Android applications built with Swift, SwiftUI, and React Native. From concept to App Store deployment.",
+      "features": ["iOS Development", "Android Development", "Cross-Platform", "App Store Optimization"]
+    },
+    "fullstack": {
+      "title": "Full-Stack Development",
+      "description": "Scalable web applications and APIs using modern frameworks. Next.js, Node.js, Python, and cloud-native architecture.",
+      "features": ["Frontend Development", "Backend APIs", "Database Design", "Cloud Deployment"]
+    },
+    "e2e": {
+      "title": "End-to-End Solutions",
+      "description": "Complete product development from ideation to launch. Strategy, design, development, and ongoing support.",
+      "features": ["Product Strategy", "UX/UI Design", "Development", "Maintenance & Support"]
+    },
+    "consulting": {
+      "title": "Consulting & Advisory",
+      "description": "Technical consulting to help you make the right technology decisions. Architecture review, team augmentation, and process optimization.",
+      "features": ["Architecture Review", "Code Audit", "Team Training", "Technology Strategy"]
+    }
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Projects we've delivered for clients worldwide",
+    "categories": {
+      "all": "All Projects",
+      "mobile": "Mobile Apps",
+      "fullstack": "Full-Stack"
+    },
+    "viewProject": "View Project"
+  },
+  "techStack": {
+    "title": "Technologies We Use",
+    "subtitle": "Modern tools and frameworks to build scalable solutions"
+  },
+  "process": {
+    "title": "How We Work",
+    "subtitle": "A proven process to deliver quality software on time",
+    "steps": {
+      "1": {
+        "title": "Discovery",
+        "description": "We understand your requirements, goals, and constraints through detailed discussions."
+      },
+      "2": {
+        "title": "Planning",
+        "description": "We create a comprehensive roadmap with milestones, timelines, and deliverables."
+      },
+      "3": {
+        "title": "Development",
+        "description": "Our team builds your solution using agile methodology with regular updates."
+      },
+      "4": {
+        "title": "Testing",
+        "description": "Rigorous quality assurance to ensure your product meets the highest standards."
+      },
+      "5": {
+        "title": "Launch",
+        "description": "We deploy your solution and provide ongoing support and maintenance."
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Build Something Great",
+    "subtitle": "Ready to start your project? Get in touch with us.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "projectType": "Project Type",
+      "projectTypes": {
+        "mobile": "Mobile App",
+        "fullstack": "Full-Stack Web App",
+        "e2e": "End-to-End Solution",
+        "consulting": "Consulting"
+      },
+      "budget": "Budget Range",
+      "budgets": {
+        "<5k": "Under $5,000",
+        "5k-15k": "$5,000 - $15,000",
+        "15k-50k": "$15,000 - $50,000",
+        ">50k": "Over $50,000"
+      },
+      "message": "Project Details",
+      "messagePlaceholder": "Tell us about your project, goals, and timeline...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! We'll get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "contact@nextgen.limited",
+      "phone": "+84 123 456 789",
+      "calendly": "Schedule a Call"
+    },
+    "social": {
+      "title": "Connect With Us"
+    }
+  },
+  "footer": {
+    "description": "Building exceptional software solutions for businesses worldwide.",
+    "columns": {
+      "services": {
+        "title": "Services",
+        "mobile": "Mobile Apps",
+        "fullstack": "Full-Stack",
+        "e2e": "End-to-End",
+        "consulting": "Consulting"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About Us",
+        "process": "Our Process",
+        "careers": "Careers"
+      },
+      "connect": {
+        "title": "Connect"
+      }
+    },
+    "copyright": "© {year} NextGen Limited. All rights reserved."
+  }
+}

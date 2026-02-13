@@ -1,0 +1,7 @@
+export * from './hero-section'
+export * from './hero-content'
+export * from './services-section'
+export * from './portfolio-section'
+export * from './tech-stack-section'
+export * from './process-section'
+export * from './contact-section'
